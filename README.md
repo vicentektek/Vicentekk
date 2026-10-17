@@ -35,7 +35,7 @@ The application is private because it handles internal business processes and em
 
 A browser-only sample of event planning, fictional staff assignments and simulated payments, built separately from my private company application. No production data or services are connected.
 
-[View the source and deployment instructions](https://github.com/vicentektek/eventflow-demo).
+**[Try the interactive EventFlow Studio demo](https://vicentektek.github.io/eventflow-demo/)** · [Source code and technical notes](https://github.com/vicentektek/eventflow-demo).
 
 ### SHOWCOMPILER (planned — 2026 hackathon project)
 
