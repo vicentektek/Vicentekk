@@ -30,6 +30,13 @@ I built and deployed an internal full-stack application for a live-event company
 
 The application is private because it handles internal business processes and employee data. Its source code and production data are not publicly shared.
 
+
+### EventFlow — public interactive demo
+
+A browser-only sample of event planning, fictional staff assignments and simulated payments, built separately from my private company application. No production data or services are connected.
+
+[View the source and deployment instructions](https://github.com/vicentektek/eventflow-demo).
+
 ### SHOWCOMPILER (planned — 2026 hackathon project)
 
 A concept for an AI-assisted tool that helps theatre companies turn scripts into playable audio cues, revise technical sequences using natural language during rehearsals, and package shows for offline playback.
